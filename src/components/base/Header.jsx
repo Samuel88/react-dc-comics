@@ -14,7 +14,7 @@ function Header() {
           </a>
 
           {/* Navigation Links */}
-          <ul className="list-unstyled d-flex mb-0">
+          <ul className="list-unstyled d-none d-xl-flex mb-0">
             <li className={`mx-3 ${styles['menuLink']}`}>
               <a className={linkClasses} href="#">
                 CHARACTERS

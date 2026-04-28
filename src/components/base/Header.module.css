@@ -1,0 +1,8 @@
+.menuLink {
+    display: flex;
+    align-items: center;
+}
+
+.menuLink:hover {
+    border-bottom: 5px solid var(--bs-primary);
+}

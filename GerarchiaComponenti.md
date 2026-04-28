@@ -3,8 +3,6 @@
 ## Albero App
 
 - Header
-    - Logo
-    - HeaderNav
 - MainContent
 - Footer
     - BannerBar (Barra Blu)
@@ -17,9 +15,7 @@
     - MainContent
     - Footer
 - **reusable**
-    - Logo
     - BannerBar
     - SocialBar
 - **navigation**
-    - HeaderNav
     - FooterNav
